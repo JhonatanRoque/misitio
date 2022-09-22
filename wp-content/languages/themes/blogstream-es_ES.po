@@ -1,0 +1,2609 @@
+# Translation of Themes - Blogstream in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Blogstream package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-31 10:34:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Blogstream\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "<a href=\"http://alx.media/themes/blogstream/\">Blogstream</a> is a flexible personal blog theme with plenty of options. Optimized for all devices, this theme will stand out with a unique design. Pick any accent color you wish. Set sidebar to the left or right - or no sidebar at all. Demo: http://demo.alx.media/x/?theme=Blogstream"
+msgstr "<a href=\"http://alx.media/themes/blogstream/\">Blogstream</a> es un tema de blog personal flexible con muchas opciones. Optimizado para todos los dispositivos, este tema destacará con un diseño único. Elige cualquier color de resaltado que desees. Configura la barra lateral a la izquierda o a la derecha - o sin barra lateral. Demo: http://demo.alx.media/x/?theme=Blogstream"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Blogstream"
+msgstr "Blogstream"
+
+#: functions/kirki/example.php:919
+msgid "Another color 15"
+msgstr "Otro color 15"
+
+#: functions/kirki/example.php:918
+msgid "Another color 14"
+msgstr "Otro color 14"
+
+#: functions/kirki/example.php:917
+msgid "Another color 13"
+msgstr "Otro color 13"
+
+#: functions/kirki/example.php:916
+msgid "Another color 12"
+msgstr "Otro color 12"
+
+#: functions/kirki/example.php:915
+msgid "Another color 11"
+msgstr "Otro color 11"
+
+#: functions/kirki/example.php:914
+msgid "Another color 10"
+msgstr "Otro color 10"
+
+#: functions/kirki/example.php:913
+msgid "Another color 9"
+msgstr "Otro color 9"
+
+#: functions/kirki/example.php:912
+msgid "Another color 8"
+msgstr "Otro color 8"
+
+#: functions/kirki/example.php:911
+msgid "Another color 7"
+msgstr "Otro color 7"
+
+#: functions/kirki/example.php:910
+msgid "Another color 6"
+msgstr "Otro color 6"
+
+#: functions/kirki/example.php:909
+msgid "Another color 5"
+msgstr "Otro color 5"
+
+#: functions/kirki/example.php:908
+msgid "Another color 4"
+msgstr "Otro color 4"
+
+#: functions/kirki/example.php:907
+msgid "Another color 3"
+msgstr "Otro color 3"
+
+#: functions/kirki/example.php:906
+msgid "Another color 2"
+msgstr "Otro color 2"
+
+#: functions/kirki/example.php:905
+msgid "Another color 1"
+msgstr "Otro color 1"
+
+#: functions/kirki/example.php:904
+msgid "Active Color"
+msgstr "Color activo"
+
+#: functions/kirki/example.php:903
+msgid "And this is hover color with long label so you know how it is displayed."
+msgstr "Y este es el color al pasar el cursor con la etiqueta larga para que sepas cómo se muestra."
+
+#: functions/kirki/example.php:902
+msgid "Link Color"
+msgstr "Color del enlace"
+
+#: functions/theme-options.php:18
+msgid "Get Blogstream Pro"
+msgstr "Obtén Blogstream Pro"
+
+#: functions/theme-options.php:16
+msgid "Get PRO"
+msgstr "Obtén la versión PRO"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Valores predeterminados"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Ondulado"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Continuo"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Color de la fuente"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Variante de fuente"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:124
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:120
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:116
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Cursiva"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:112
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Regular"
+
+#. translators: %s is the limit of selection number.
+#: functions/kirki/packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:169
+msgid "You can only select %s items"
+msgstr "Solo puedes seleccionar %s elementos"
+
+#: functions/kirki/packages/kirki-framework/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Seleccionar..."
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Varios"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Avisos"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Widgets"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Productos"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Social"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Ordenar"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Entradas"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Edición de imágenes"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Medios"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Formatos de entrada"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Pantalla de bienvenida"
+
+#: functions/kirki/packages/kirki-framework/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Menú de administración"
+
+#: functions/kirki/example.php:1321
+msgid "An example of how to implement sidebars selection."
+msgstr "Un ejemplo de cómo implementar la selección de barras laterales."
+
+#: functions/kirki/example.php:1320
+msgid "Sidebars Select"
+msgstr "Seleccionar barras laterales"
+
+#: functions/kirki/example.php:1285
+msgid "Just the font-family and font-weight."
+msgstr "Sólo el font-family y el font-weight."
+
+#: functions/kirki/example.php:1231
+msgid "The full set of options."
+msgstr "El conjunto completo de opciones."
+
+#: functions/kirki/example.php:1230 functions/kirki/example.php:1284
+msgid "Typography Control"
+msgstr "Control de la tipografía"
+
+#: functions/kirki/example.php:1216
+msgid "Toggle is just utilizing switch control but aligned horizontally & without the text"
+msgstr "El alternador es simplemente utilizar el control del interruptor pero alineado horizontalmente y sin el texto"
+
+#: functions/kirki/example.php:1215
+msgid "Toggle Field"
+msgstr "Campo alternador"
+
+#: functions/kirki/example.php:1195
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: functions/kirki/example.php:1194
+msgid "Enabled"
+msgstr "Activado"
+
+#: functions/kirki/example.php:1190
+msgid "Switch control using custom labels"
+msgstr "Control de interruptor con etiquetas personalizadas"
+
+#: functions/kirki/example.php:1189
+msgid "Switch Field — With custom labels"
+msgstr "Campo interruptor - Con etiquetas personalizadas"
+
+#: functions/kirki/example.php:1179
+msgid "Simple switch control"
+msgstr "Control de interruptor simple"
+
+#: functions/kirki/example.php:1178
+msgid "Switch Field"
+msgstr "Campo de interruptor"
+
+#: functions/kirki/example.php:1167
+msgid "Option 6"
+msgstr "Opción 6"
+
+#: functions/kirki/example.php:1158
+msgid "This is a sortable control."
+msgstr "Este es un control ordenable."
+
+#: functions/kirki/example.php:1140
+msgid "Slider Control — Using Old Way"
+msgstr "Control deslizador - Usando la forma antigua"
+
+#: functions/kirki/example.php:1126
+msgid "This is the tooltip"
+msgstr "Esta es la información emergente"
+
+#: functions/kirki/example.php:1122
+msgid "Sample of slider control."
+msgstr "Ejemplo de control deslizador."
+
+#: functions/kirki/example.php:1121
+msgid "Slider Control"
+msgstr "Control deslizante"
+
+#: functions/kirki/example.php:1101
+msgid "Sample of multiple mode select control."
+msgstr "Ejemplo de control de selección de modo múltiple."
+
+#: functions/kirki/example.php:1086
+msgid "Select an option"
+msgstr "Selecciona una opción"
+
+#: functions/kirki/example.php:1083
+msgid "Sample of single mode select control."
+msgstr "Ejemplo de control de selección de modo único."
+
+#: functions/kirki/example.php:1082 functions/kirki/example.php:1100
+msgid "Select Control"
+msgstr "Control de selección"
+
+#: functions/kirki/example.php:1064
+msgid "Same Frame"
+msgstr "Mismo marco"
+
+#: functions/kirki/example.php:1063
+msgid "New Window"
+msgstr "Nueva ventana"
+
+#: functions/kirki/example.php:1060
+msgid "This will be the link target"
+msgstr "Esto será el destino del enlace"
+
+#: functions/kirki/example.php:1059
+msgid "Link Target"
+msgstr "Destino del enlace"
+
+#: functions/kirki/example.php:1054
+msgid "This will be the link URL"
+msgstr "Este será la URL del enlace"
+
+#: functions/kirki/example.php:1053
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: functions/kirki/example.php:1048
+msgid "This will be the label for your link"
+msgstr "Esta será la etiqueta de tu enlace"
+
+#: functions/kirki/example.php:1047
+msgid "Link Text"
+msgstr "Texto del enlace"
+
+#: functions/kirki/example.php:1038
+msgid "Kirki Repository"
+msgstr "Repositorio de Kirki"
+
+#: functions/kirki/example.php:1032
+msgid "Kirki Site"
+msgstr "Sitio de Kirki"
+
+#: functions/kirki/example.php:1028
+msgid "Sample of repeater control."
+msgstr "Ejemplo de control repetidor."
+
+#: functions/kirki/example.php:1027
+msgid "Repeater Control"
+msgstr "Control repetidor"
+
+#: functions/kirki/example.php:1010
+msgid "Sample of radio image control."
+msgstr "Ejemplo de control de radio con imagen."
+
+#: functions/kirki/example.php:1009
+msgid "Radio-Image Control"
+msgstr "Control Radio-Image"
+
+#: functions/kirki/example.php:992
+msgid "Sample of radio-buttonset control."
+msgstr "Muestra de control por botones de radio."
+
+#: functions/kirki/example.php:991
+msgid "Radio-Buttonset Control"
+msgstr "Control Radio-Buttonset"
+
+#: functions/kirki/example.php:972
+msgid "The description here."
+msgstr "Aquí va la descripción."
+
+#: functions/kirki/example.php:971
+msgid "Radio Control"
+msgstr "Control de radio"
+
+#: functions/kirki/example.php:953
+msgid "Control Palette"
+msgstr "Paleta de control"
+
+#: functions/kirki/example.php:936
+msgid "Number Control"
+msgstr "Control Numérico"
+
+#: functions/kirki/example.php:897
+msgid "Multicolor Control"
+msgstr "Control multicolor"
+
+#: functions/kirki/example.php:886 functions/kirki/example.php:980
+#: functions/kirki/example.php:1092 functions/kirki/example.php:1110
+#: functions/kirki/example.php:1166
+msgid "Option 5"
+msgstr "Opción 5"
+
+#: functions/kirki/example.php:885 functions/kirki/example.php:979
+#: functions/kirki/example.php:1091 functions/kirki/example.php:1109
+#: functions/kirki/example.php:1165
+msgid "Option 4"
+msgstr "Opción 4"
+
+#: functions/kirki/example.php:884 functions/kirki/example.php:978
+#: functions/kirki/example.php:998 functions/kirki/example.php:1090
+#: functions/kirki/example.php:1108 functions/kirki/example.php:1164
+msgid "Option 3"
+msgstr "Opción 3"
+
+#: functions/kirki/example.php:883 functions/kirki/example.php:977
+#: functions/kirki/example.php:997 functions/kirki/example.php:1089
+#: functions/kirki/example.php:1107 functions/kirki/example.php:1163
+msgid "Option 2"
+msgstr "Opción 2"
+
+#: functions/kirki/example.php:882 functions/kirki/example.php:976
+#: functions/kirki/example.php:996 functions/kirki/example.php:1088
+#: functions/kirki/example.php:1106 functions/kirki/example.php:1162
+msgid "Option 1"
+msgstr "Opción 1"
+
+#: functions/kirki/example.php:877
+msgid "Multickeck Control"
+msgstr "Control multicheck"
+
+#: functions/kirki/example.php:864
+msgid "The saved value will the URL."
+msgstr "El valor guardado será la URL."
+
+#: functions/kirki/example.php:863
+msgid "Upload Control (URL)"
+msgstr "Control de subida (URL)"
+
+#: functions/kirki/example.php:848
+msgid "The saved value will an array."
+msgstr "El valor guardado será un array."
+
+#: functions/kirki/example.php:847
+msgid "Image Control (array)"
+msgstr "Control de imagen (array)"
+
+#: functions/kirki/example.php:835
+msgid "The saved value will an ID."
+msgstr "El valor guardado será un ID."
+
+#: functions/kirki/example.php:834
+msgid "Image Control (ID)"
+msgstr "Control de imagen (ID)"
+
+#: functions/kirki/example.php:825
+msgid "The saved value will be the URL."
+msgstr "El valor guardado será la URL."
+
+#: functions/kirki/example.php:824
+msgid "Image Control (URL)"
+msgstr "Control de imagen (URL)"
+
+#: functions/kirki/example.php:806
+msgid "The \"generic\" control allows you to add any input type you want. In this case we use type=\"password\" and define custom styles."
+msgstr "El control «genérico» te permite añadir cualquier tipo de campo de entrada que quieras. En este caso usamos type=\"password\" y definimos estilos personalizados."
+
+#: functions/kirki/example.php:805
+msgid "Generic Control — Custom Input."
+msgstr "Control genérico - Entrada personalizada."
+
+#: functions/kirki/example.php:796
+msgid "Description"
+msgstr "Descripción"
+
+#: functions/kirki/example.php:795
+msgid "Generic Control — Textarea Field"
+msgstr "Control genérico - Campo de texto"
+
+#: functions/kirki/example.php:777
+msgid "The demo of this control has partial refresh without transport is defined"
+msgstr "La demo de este control tiene actualización parcial sin transporte está definida"
+
+#: functions/kirki/example.php:776
+msgid "Generic Control — URL Field"
+msgstr "Control genérico - Campo URL"
+
+#: functions/kirki/example.php:757
+msgid "The demo of this control has partial refresh with transport is postMessage"
+msgstr "La demostración de este control tiene una actualización parcial con el transporte es postMessage"
+
+#: functions/kirki/example.php:756
+msgid "Generic Control — Text Field"
+msgstr "Control genérico - Campo de texto"
+
+#: functions/kirki/example.php:741
+msgid "Sample of dropdown pages control."
+msgstr "Ejemplo de control desplegable de páginas."
+
+#: functions/kirki/example.php:740
+msgid "Dropdown Pages Control"
+msgstr "Control desplegable de páginas"
+
+#: functions/kirki/example.php:723
+msgid "Sample of spacing controls with 4 fields."
+msgstr "Ejemplo de controles de espaciado con 4 campos."
+
+#: functions/kirki/example.php:722
+msgid "Spacing Control"
+msgstr "Control de espaciamiento"
+
+#: functions/kirki/example.php:709
+msgid "Sample of padding controls with 3 fields."
+msgstr "Ejemplo de controles de relleno con 2 campos."
+
+#: functions/kirki/example.php:708
+msgid "Padding Control"
+msgstr "Control de relleno"
+
+#: functions/kirki/example.php:694
+msgid "Sample of dimensions control with 4 fields."
+msgstr "Ejemplo de controles de dimensiones con 4 campos."
+
+#: functions/kirki/example.php:681
+msgid "Sample of dimensions control with 2 fields."
+msgstr "Ejemplo de controles de dimensiones con 2 campos."
+
+#: functions/kirki/example.php:680
+msgid "Dimensions Control"
+msgstr "Control de dimensiones"
+
+#: functions/kirki/example.php:665
+msgid "A simple dimension control."
+msgstr "Un control de dimensiones sencillo."
+
+#: functions/kirki/example.php:664 functions/kirki/example.php:693
+msgid "Dimension Control"
+msgstr "Control de dimensión"
+
+#: functions/kirki/example.php:652
+msgid "Showing all dashicons"
+msgstr "Mostrando todos los dashicons"
+
+#: functions/kirki/example.php:651
+msgid "All Dashicons"
+msgstr "Todos los dashicons"
+
+#: functions/kirki/example.php:633
+msgid "Using a custom array of dashicons"
+msgstr "Usando un array de dashicons"
+
+#: functions/kirki/example.php:632
+msgid "Dashicons Control"
+msgstr "Control de Dashicons"
+
+#: functions/kirki/example.php:617
+msgid "Custom Control"
+msgstr "Control personalizado"
+
+#: functions/kirki/example.php:547
+msgid "Showing \"A100\" variant of material design colors"
+msgstr "Muestra la variante \"A100\" de los colores del diseño de materiales"
+
+#: functions/kirki/example.php:546
+msgid "Material Design Colors — A100"
+msgstr "Colores de diseño material — A100"
+
+#: functions/kirki/example.php:534
+msgid "Showing red material design colors"
+msgstr "Mostrando los colores de diseño material rojo"
+
+#: functions/kirki/example.php:533
+msgid "Material Design Colors — Red"
+msgstr "Colores de diseño material — rojo"
+
+#: functions/kirki/example.php:521
+msgid "Showing primary material design colors"
+msgstr "Mostrar los colores primarios del diseño material"
+
+#: functions/kirki/example.php:520
+msgid "Material Design Colors — Primary"
+msgstr "Colores de diseño material — primario"
+
+#: functions/kirki/example.php:505
+msgid "Showing all material design colors using `round` shape and size is 17"
+msgstr "Mostrar todos los colores del diseño material utilizando la forma y el tamaño \"redondo\" es 17"
+
+#: functions/kirki/example.php:504
+msgid "Material Design Colors — All"
+msgstr "Colores de diseño material — todos"
+
+#: functions/kirki/example.php:490
+msgid "With default size (28). The `size` here is inner size (without border)"
+msgstr "Con el tamaño por defecto (28). El `tamaño` aquí es el tamaño interior (sin borde)"
+
+#: functions/kirki/example.php:489
+msgid "Simple Colors Set"
+msgstr "Conjunto de colores simples"
+
+#: functions/kirki/example.php:477
+msgid "Default Text"
+msgstr "Texto por defecto"
+
+#: functions/kirki/example.php:475
+msgid "This is a 2nd editor control just to check that we do not have issues with multiple instances."
+msgstr "Este es un segundo control editor solo para comprobar que no hay problemas cuando hay múltiples instancias."
+
+#: functions/kirki/example.php:474
+msgid "Second Editor Control"
+msgstr "Segundo control editor."
+
+#: functions/kirki/example.php:465
+msgid "This is an editor control."
+msgstr "Este es un control editor."
+
+#: functions/kirki/example.php:464
+msgid "First Editor Control"
+msgstr "Primer control editor."
+
+#: functions/kirki/example.php:451
+msgid "Date Control 2"
+msgstr "Control de fecha 2"
+
+#: functions/kirki/example.php:442 functions/kirki/example.php:452
+msgid "This is a date control."
+msgstr "Esto es un control de fecha."
+
+#: functions/kirki/example.php:441
+msgid "Date Control"
+msgstr "Control de fecha"
+
+#: functions/kirki/example.php:425
+msgid "This is a color control with form_component value is HslaStringColorPicker. The saved value will be a string"
+msgstr "Este es un control de color con el valor de form_component es HslaStringColorPicker. El valor guardado será una cadena"
+
+#: functions/kirki/example.php:424
+msgid "v4 — form_component — HslaStringColorPicker"
+msgstr "v4 — form_component — HslaStringColorPicker"
+
+#: functions/kirki/example.php:404
+msgid "This is a color control with form_component value is HslaColorPicker. The saved value will be an array"
+msgstr "Este es un control de color con el valor de form_component es HslaColorPicker. El valor guardado será un array"
+
+#: functions/kirki/example.php:403
+msgid "v4 — form_component — HslaColorPicker"
+msgstr "v4 — form_component — HslaColorPicker"
+
+#: functions/kirki/example.php:378
+msgid "This is a color control with form_component value is HslStringColorPicker. The saved value will be a string"
+msgstr "Se trata de un control de color cuyo valor de form_component es HslStringColorPicker. El valor guardado será una cadena"
+
+#: functions/kirki/example.php:377
+msgid "v4 — form_component — HslStringColorPicker"
+msgstr "v4 — form_component — HslStringColorPicker"
+
+#: functions/kirki/example.php:357
+msgid "This is a color control with form_component value is HslColorPicker. The saved value will be an array"
+msgstr "Se trata de un control de color cuyo valor de form_component es HslColorPicker. El valor guardado será un array"
+
+#: functions/kirki/example.php:356
+msgid "v4 — form_component — HslColorPicker"
+msgstr "v4 — form_component — HslColorPicker"
+
+#: functions/kirki/example.php:332
+msgid "This is a color control with form_component value is RgbaStringColorPicker. The saved value will be a string."
+msgstr "Se trata de un control de color cuyo valor de form_component es RgbaStringColorPicker. El valor guardado será una cadena."
+
+#: functions/kirki/example.php:331
+msgid "v4 — form_component — RgbaStringColorPicker"
+msgstr "v4 — form_component — RgbaStringColorPicker"
+
+#: functions/kirki/example.php:311
+msgid "This is a color control with form_component value is RgbaColorPicker.  The saved value will be an array."
+msgstr "Este es un control de color con el valor de form_component es RgbaColorPicker.  El valor guardado será un array."
+
+#: functions/kirki/example.php:310
+msgid "v4 — form_component — RgbaColorPicker"
+msgstr "v4 — form_component — RgbaColorPicker"
+
+#: functions/kirki/example.php:285
+msgid "This is a color control with form_component value is RgbStringColorPicker. The saved value will be a string."
+msgstr "Se trata de un control de color cuyo valor de form_component es RgbStringColorPicker. El valor guardado será una cadena."
+
+#: functions/kirki/example.php:284
+msgid "v4 — form_component — RgbStringColorPicker"
+msgstr "v4 — form_component — RgbStringColorPicker"
+
+#: functions/kirki/example.php:264
+msgid "This is a color control with form_component value is RgbColorPicker. The saved value will be an array."
+msgstr "Este es un control de color con el valor de form_component es RgbColorPicker. El valor guardado será un array."
+
+#: functions/kirki/example.php:263
+msgid "v4 — form_component — RgbColorPicker"
+msgstr "v4 — form_component — RgbColorPicker"
+
+#: functions/kirki/example.php:238
+msgid "This is a color control with form_component value is HexColorPicker."
+msgstr "Este es un control de color con el valor de form_component es HexColorPicker."
+
+#: functions/kirki/example.php:237
+msgid "v4 — form_component — HexColorPicker"
+msgstr "v4 — form_component — HexColorPicker"
+
+#: functions/kirki/example.php:216
+msgid "This is a color control with \"mode\" => \"hue\" (hue mode)."
+msgstr "Se trata de un control de color con \"modo\" => \"tono\" (modo de tono)."
+
+#: functions/kirki/example.php:215
+msgid "Hue only."
+msgstr "Sólo el tono."
+
+#: functions/kirki/example.php:203
+msgid "This is a color control with alpha channel."
+msgstr "Se trata de un control de color con canal alfa."
+
+#: functions/kirki/example.php:202
+msgid "With alpha channel"
+msgstr "Con canal alfa"
+
+#: functions/kirki/example.php:192
+msgid "This is a color control without alpha channel."
+msgstr "Se trata de un control de color sin canal alfa."
+
+#: functions/kirki/example.php:191
+msgid "Hex only"
+msgstr "Sólo hexadecimal"
+
+#: functions/kirki/example.php:178
+msgid "This is a color control registered using `Kirki::add_field` with \"alpha\" => true (the old Kirki API)."
+msgstr "Se trata de un control de color registrado mediante `Kirki::add_field` con \"alpha\" => true (la antigua API de Kirki)."
+
+#: functions/kirki/example.php:161
+msgid "Sample of checkbox control"
+msgstr "Ejemplo de control de casilla de verificación"
+
+#: functions/kirki/example.php:160
+msgid "Checkbox Control"
+msgstr "Control casilla de selección"
+
+#: functions/kirki/example.php:143
+msgid "Sample of code control in CSS format"
+msgstr "Ejemplo de control de código en formato CSS"
+
+#: functions/kirki/example.php:142
+msgid "Code Control — CSS"
+msgstr "Control de código — CSS"
+
+#: functions/kirki/example.php:121
+msgid "Background conrols are pretty complex! (but useful if properly used)"
+msgstr "¡Los controles del fondo son bastante complejos! (pero útiles debidamente usados)"
+
+#: functions/kirki/example.php:120
+msgid "Background Control"
+msgstr "Control de fondo"
+
+#: functions/kirki/example.php:107
+msgid "Pro"
+msgstr "Pro"
+
+#: functions/kirki/example.php:105
+msgid "Test Link Section"
+msgstr "Sección de enlace de prueba"
+
+#: functions/kirki/example.php:87
+msgid "Upload"
+msgstr "Subir"
+
+#: functions/kirki/example.php:86
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions/kirki/example.php:85
+msgid "Toggle"
+msgstr "Alternador"
+
+#: functions/kirki/example.php:84
+msgid "Switch"
+msgstr "Alternar"
+
+#: functions/kirki/example.php:83
+msgid "Sortable"
+msgstr "Ordenable"
+
+#: functions/kirki/example.php:82
+msgid "Slider"
+msgstr "Carrusel"
+
+#: functions/kirki/example.php:81
+msgid "Select"
+msgstr "Seleccionar"
+
+#: functions/kirki/example.php:80
+msgid "Repeater"
+msgstr "Repetidor"
+
+#: functions/kirki/example.php:79
+msgid "Radio-Image controls are essentially radio controls with some fancy styles to use images"
+msgstr "Los controles Radio-imagen son simplemente controles de radio con algunos estilos para que usen imágenes"
+
+#: functions/kirki/example.php:79
+msgid "Radio Image"
+msgstr "Imagen de radio"
+
+#: functions/kirki/example.php:78
+msgid "Radio-Buttonset controls are essentially radio controls with some fancy styling to make them look cooler."
+msgstr "Los controles Conjunto de radio son simplemente controles de radio con algunos estilos para que queden más chulos."
+
+#: functions/kirki/example.php:78
+msgid "Radio Buttonset"
+msgstr "Conjunto de radio"
+
+#: functions/kirki/example.php:77
+msgid "A plain Radio control."
+msgstr "Un control de radio sencillo."
+
+#: functions/kirki/example.php:77
+msgid "Radio"
+msgstr "Radio"
+
+#: functions/kirki/example.php:76
+msgid "Preset"
+msgstr "Preajuste"
+
+#: functions/kirki/example.php:75
+msgid "Palette"
+msgstr "Paleta"
+
+#: functions/kirki/example.php:74
+msgid "Number"
+msgstr "Número"
+
+#: functions/kirki/example.php:73
+msgid "Multicolor"
+msgstr "Multicolor"
+
+#: functions/kirki/example.php:72
+msgid "Multicheck"
+msgstr "Multicheck"
+
+#: functions/kirki/example.php:71
+msgid "Image"
+msgstr "Imagen"
+
+#: functions/kirki/example.php:70
+msgid "Generic"
+msgstr "Genérico"
+
+#: functions/kirki/example.php:69
+msgid "Font-Awesome"
+msgstr "Font-Awesome"
+
+#: functions/kirki/example.php:68
+msgid "Editor"
+msgstr "Editor"
+
+#: functions/kirki/example.php:67
+msgid "Dropdown Pages"
+msgstr "Páginas desplegables"
+
+#: functions/kirki/example.php:66
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+#: functions/kirki/example.php:65
+msgid "Dimension"
+msgstr "Dimensión"
+
+#: functions/kirki/example.php:64
+msgid "Date"
+msgstr "Fecha"
+
+#: functions/kirki/example.php:63
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: functions/kirki/example.php:62
+msgid "Custom"
+msgstr "Personalizado"
+
+#: functions/kirki/example.php:61
+msgid "Color Palette"
+msgstr "Paleta de colores"
+
+#: functions/kirki/example.php:60
+msgid "Color — Advanced"
+msgstr "Color — Avanzado"
+
+#: functions/kirki/example.php:58 functions/kirki/example.php:1069
+msgid "Checkbox"
+msgstr "Casilla de verificación"
+
+#: functions/kirki/example.php:57
+msgid "Code"
+msgstr "Código"
+
+#: functions/kirki/example.php:56
+msgid "Background"
+msgstr "Fondo"
+
+#: functions/kirki/example.php:43
+msgid "Contains sections for all kirki controls."
+msgstr "Contiene secciones para todos los controles de kirki."
+
+#: functions/kirki/example.php:42
+msgid "Kirki Demo Panel"
+msgstr "Panel de ejemplo de Kirki"
+
+#: single.php:36
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: single.php:34
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Para buscar, escriba y pulse enter"
+
+#: inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "También te puede interesar..."
+
+#: inc/post-nav.php:4
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/post-nav.php:3
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/page-title.php:37
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "La página que estás buscando no existe. Por favor, navega por los menús o utiliza el buscador para encontrar lo que buscas."
+
+#: inc/page-title.php:35
+msgid "Page not found!"
+msgstr "¡Página no encontrada!"
+
+#: inc/page-title.php:35
+msgid "Error 404."
+msgstr "Error 404."
+
+#: inc/page-title.php:27
+msgid "Please try another search:"
+msgstr "Por favor, intenta otra búsqueda:"
+
+#: inc/page-title.php:25
+msgid "For the term"
+msgstr "Para el término"
+
+#: inc/page-title.php:20
+msgid "Search results"
+msgstr "Resultados de búsqueda"
+
+#: inc/page-title.php:18
+msgid "Search result"
+msgstr "Resultado de búsqueda"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions/theme-options.php:669
+msgid "Your logo image should have the double height of this to be high resolution"
+msgstr "La imagen de tu logotipo debe tener la doble altura de ésta para ser de alta resolución"
+
+#: functions/theme-options.php:668
+msgid "Header Logo Image Max-height"
+msgstr "Altura máxima de la imagen del logotipo de la cabecera"
+
+#: functions/theme-options.php:660
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions/theme-options.php:647
+msgid "Max-width of the website content"
+msgstr "Ancho máximo del contenido del sitio web"
+
+#: functions/theme-options.php:646
+msgid "Content Max-width"
+msgstr "Ancho máximo del contenido"
+
+#: functions/theme-options.php:633
+msgid "Max-width of the container. Use default for full width."
+msgstr "Ancho máximo del contenedor. Utiliza el valor por defecto para el ancho total."
+
+#: functions/theme-options.php:632
+msgid "Website Max-width"
+msgstr "Ancho máximo de la web"
+
+#: functions/theme-options.php:625
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: functions/theme-options.php:624
+msgid "Verdana"
+msgstr "Verdana"
+
+#: functions/theme-options.php:623
+msgid "Georgia"
+msgstr "Georgia"
+
+#: functions/theme-options.php:622
+msgid "Arial"
+msgstr "Arial"
+
+#: functions/theme-options.php:621
+msgid "PT Serif, Latin / Cyrillic-Ext"
+msgstr "PT Serif, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:620
+msgid "PT Serif, Latin-Ext"
+msgstr "PT Serif, Latin-Ext"
+
+#: functions/theme-options.php:619
+msgid "Open Sans, Latin / Cyrillic-Ext"
+msgstr "Open Sans, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:618
+msgid "Open Sans, Latin-Ext"
+msgstr "Open Sans, Latin-Ext"
+
+#: functions/theme-options.php:617
+msgid "Playfair Display, Latin / Cyrillic"
+msgstr "Playfair Display, Latin / Cyrillic"
+
+#: functions/theme-options.php:616
+msgid "Playfair Display, Latin-Ext"
+msgstr "Playfair Display, Latin-Ext"
+
+#: functions/theme-options.php:615
+msgid "Roboto Slab, Latin / Cyrillic-Ext"
+msgstr "Roboto Slab, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:614
+msgid "Roboto Slab, Latin-Ext"
+msgstr "Roboto Slab, Latin-Ext"
+
+#: functions/theme-options.php:613
+msgid "Roboto Condensed, Latin / Cyrillic-Ext"
+msgstr "Roboto Condensed, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:612
+msgid "Roboto Condensed, Latin-Ext"
+msgstr "Roboto Condensed, Latin-Ext"
+
+#: functions/theme-options.php:611
+msgid "Roboto, Latin / Cyrillic-Ext"
+msgstr "Roboto, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:610
+msgid "Roboto, Latin-Ext"
+msgstr "Roboto, Latin-Ext"
+
+#: functions/theme-options.php:609
+msgid "Ubuntu, Latin / Cyrillic-Ext"
+msgstr "Ubuntu, Latin / Cyrillic-Ext"
+
+#: functions/theme-options.php:608
+msgid "Ubuntu, Latin-Ext"
+msgstr "Ubuntu, Latin-Ext"
+
+#: functions/theme-options.php:607
+msgid "Raleway, Latin"
+msgstr "Raleway, Latin"
+
+#: functions/theme-options.php:606
+msgid "Lato, Latin"
+msgstr "Lato, Latin"
+
+#: functions/theme-options.php:605
+msgid "Source Sans Pro, Latin-Ext"
+msgstr "Source Sans Pro, Latin-Ext"
+
+#: functions/theme-options.php:604
+msgid "Droid Serif, Latin"
+msgstr "Droid Serif, Latin"
+
+#: functions/theme-options.php:603
+msgid "Titillium Web, Latin-Ext"
+msgstr "Titillium Web, Latin-Ext"
+
+#: functions/theme-options.php:602
+msgid "Titillium Web, Latin (Self-hosted)"
+msgstr "Titillium Web, Latin (Autoalojada)"
+
+#: functions/theme-options.php:598
+msgid "Select font for the theme"
+msgstr "Selecciona la fuente para el tema"
+
+#: functions/theme-options.php:597
+msgid "Font"
+msgstr "Fuente"
+
+#: functions/theme-options.php:589
+msgid "Turn on to use the styling options below"
+msgstr "Actívalo para utilizar las opciones de estilo que aparecen a continuación"
+
+#: functions/theme-options.php:588
+msgid "Dynamic Styles"
+msgstr "Estilos dinámicos"
+
+#: functions/theme-options.php:579
+msgid "Open in new window"
+msgstr "Abrir en una nueva ventana"
+
+#: functions/theme-options.php:574
+msgid "Set a unique color for your icon (optional)"
+msgstr "Establece un color único para tu icono (opcional)"
+
+#: functions/theme-options.php:573
+msgid "Icon Color"
+msgstr "Color de icono"
+
+#: functions/theme-options.php:568
+msgid "Enter the full url for your icon button"
+msgstr "Introduce la url completa de tu botón de icono"
+
+#: functions/theme-options.php:567
+msgid "Link"
+msgstr "Enlace"
+
+#: functions/theme-options.php:562
+msgid "Font Awesome icons. Ex: fa-facebook "
+msgstr "Iconos de Font Awesome. Ej: fa-facebook "
+
+#: functions/theme-options.php:561
+msgid "Icon Name"
+msgstr "Nombre del icono"
+
+#: functions/theme-options.php:556
+msgid "Ex: Facebook"
+msgstr "Ej: Facebook"
+
+#: functions/theme-options.php:555
+msgid "Title"
+msgstr "Título"
+
+#: functions/theme-options.php:548
+msgid "social link"
+msgstr "enlace social"
+
+#: functions/theme-options.php:545 functions/theme-options.php:562
+msgid "View All"
+msgstr "Ver todos"
+
+#: functions/theme-options.php:545
+msgid "Font Awesome names:"
+msgstr "Nombres de Font Awesome:"
+
+#: functions/theme-options.php:543
+msgid "Create and organize your social links"
+msgstr "Crea y organiza tus enlaces sociales"
+
+#: functions/theme-options.php:542
+msgid "Create Social Links"
+msgstr "Crear enlaces sociales"
+
+#: functions/theme-options.php:529
+msgid "(is_page) Primary - If a page has a unique sidebar, it will override this."
+msgstr "(is_page) Primaria - Si una página tiene una barra lateral única, anulará esta."
+
+#: functions/theme-options.php:519
+msgid "(is_404) Primary"
+msgstr "(is_404) Primaria"
+
+#: functions/theme-options.php:509
+msgid "(is_search) Primary"
+msgstr "(is_search) Primaria"
+
+#: functions/theme-options.php:499
+msgid "(is_category) Primary"
+msgstr "(is_category) Primaria"
+
+#: functions/theme-options.php:489
+msgid "(is_archive) Primary"
+msgstr "(is_archive) Primaria"
+
+#: functions/theme-options.php:479
+msgid "(is_single) Primary - If a single post has a unique sidebar, it will override this."
+msgstr "(is_single) Primaria - Si una entrada individual tiene una barra lateral única, anulará esta."
+
+#: functions/theme-options.php:469
+msgid "(is_home) Primary"
+msgstr "(is_home) Primaria"
+
+#: functions/theme-options.php:440
+msgid "(is_page) Default page layout - If a page has a set layout, it will override this."
+msgstr "(is_page) Diseño de página por defecto - Si una página tiene establecida una disposición, anulará esto."
+
+#: functions/theme-options.php:439 functions/theme-options.php:528
+msgid "Default Page"
+msgstr "Página por defecto"
+
+#: functions/theme-options.php:425
+msgid "(is_404) Error 404 page layout"
+msgstr "(is_404) Disposición de la página de error 404"
+
+#: functions/theme-options.php:424 functions/theme-options.php:518
+msgid "Error 404"
+msgstr "Error 404"
+
+#: functions/theme-options.php:410
+msgid "(is_search) Search page layout"
+msgstr "(is_search) Disposición de la página de búsqueda"
+
+#: functions/theme-options.php:409 functions/theme-options.php:508
+msgid "Search"
+msgstr "Buscar"
+
+#: functions/theme-options.php:395
+msgid "(is_category) Category archive layout"
+msgstr "(is_category) Desposición del archivo de categoría"
+
+#: functions/theme-options.php:394 functions/theme-options.php:498
+msgid "Archive - Category"
+msgstr "Archivo - Categoría"
+
+#: functions/theme-options.php:380
+msgid "(is_archive) Category, date, tag and author archive layout"
+msgstr "(is_archive) Diseño de los archivos de categoría, fecha, etiqueta y autor"
+
+#: functions/theme-options.php:379 functions/theme-options.php:488
+msgid "Archive"
+msgstr "Archivo"
+
+#: functions/theme-options.php:365
+msgid "(is_single) Single post layout - If a post has a set layout, it will override this."
+msgstr "(is_single) Disposición de la entrada individual - Si una entrada tiene una disposición establecida, anulará esto."
+
+#: functions/theme-options.php:364 functions/theme-options.php:478
+msgid "Single"
+msgstr "Individual"
+
+#: functions/theme-options.php:350
+msgid "(is_home) Posts homepage layout"
+msgstr "(is_home) Disposición de la página de inicio de las entradas"
+
+#: functions/theme-options.php:349 functions/theme-options.php:468
+msgid "Home"
+msgstr "Inicio"
+
+#: functions/theme-options.php:336
+msgid "Other layouts will override this option if they are set"
+msgstr "Otras disposiciones anulan esta opción si están establecidas"
+
+#: functions/theme-options.php:335
+msgid "Global Layout"
+msgstr "Disposición global"
+
+#: functions/theme-options.php:327
+msgid "Footer credit text"
+msgstr "Crédito en pie de página"
+
+#: functions/theme-options.php:326
+msgid "Footer Credit"
+msgstr "Créditos del pie"
+
+#: functions/theme-options.php:318
+msgid "Replace the footer copyright text"
+msgstr "Reemplaza el texto de copyright del pie de página"
+
+#: functions/theme-options.php:317
+msgid "Footer Copyright"
+msgstr "Copyright de pie de página"
+
+#: functions/theme-options.php:309
+msgid "Upload your custom logo image"
+msgstr "Sube la imagen de tu logo personalizado"
+
+#: functions/theme-options.php:308
+msgid "Footer Logo"
+msgstr "Logo de pie de página"
+
+#: functions/theme-options.php:299
+msgid "Footer Social Links"
+msgstr "Enlaces sociales en el pie de página"
+
+#: functions/theme-options.php:284
+msgid "Select columns to enable footer widgets. Recommended number: 3"
+msgstr "Selecciona las columnas para activar los widgets de pie de página. Número recomendado: 3"
+
+#: functions/theme-options.php:283
+msgid "Footer Widget Columns"
+msgstr "Columnas de widgets de pie de página"
+
+#: functions/theme-options.php:275
+msgid "Footer widget ads area"
+msgstr "Área de anuncios del widget de pie de página"
+
+#: functions/theme-options.php:266
+msgid "A short description of you"
+msgstr "Una breve descripción sobre ti"
+
+#: functions/theme-options.php:265
+msgid "Profile Description"
+msgstr "Descripción del perfil"
+
+#: functions/theme-options.php:257
+msgid "Your name appears below the image"
+msgstr "Tu nombre aparece debajo de la imagen"
+
+#: functions/theme-options.php:256
+msgid "Profile Name"
+msgstr "Nombre del perfil"
+
+#: functions/theme-options.php:248
+msgid "Minimum width of 320px"
+msgstr "Ancho mínimo de 320px"
+
+#: functions/theme-options.php:247
+msgid "Profile Image"
+msgstr "Imagen de perfil"
+
+#: functions/theme-options.php:239 functions/theme-options.php:300
+msgid "Social link icon buttons"
+msgstr "Botones con iconos de enlaces sociales"
+
+#: functions/theme-options.php:238
+msgid "Header Social Links"
+msgstr "Enlaces sociales de cabecera"
+
+#: functions/theme-options.php:230
+msgid "Header search button"
+msgstr "Botón de búsqueda de la cabecera"
+
+#: functions/theme-options.php:229
+msgid "Header Search"
+msgstr "Búsqueda en la cabecera"
+
+#: functions/theme-options.php:222
+msgid "Below content"
+msgstr "Bajo el contenido"
+
+#: functions/theme-options.php:221
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions/theme-options.php:216
+msgid "Shows links to the next and previous article"
+msgstr "Muestra los enlaces al artículo siguiente y al anterior"
+
+#: functions/theme-options.php:215
+msgid "Single - Post Navigation"
+msgstr "Individual - Navegación de entradas"
+
+#: functions/theme-options.php:208
+msgid "Related by tags"
+msgstr "Relacionado por etiquetas"
+
+#: functions/theme-options.php:207
+msgid "Related by categories"
+msgstr "Relacionados por categorías"
+
+#: functions/theme-options.php:206 functions/theme-options.php:220
+msgid "Disable"
+msgstr "Desactivar"
+
+#: functions/theme-options.php:202
+msgid "Shows randomized related articles below the post"
+msgstr "Muestra entradas relacionadas aleatorias debajo de la entrada"
+
+#: functions/theme-options.php:201
+msgid "Single - Related Posts"
+msgstr "Individual - Publicaciones relacionadas"
+
+#: functions/theme-options.php:193
+msgid "Shows post author description, if it exists"
+msgstr "Muestra la descripción del autor de la entrada, si existe"
+
+#: functions/theme-options.php:192
+msgid "Single - Author Bio"
+msgstr "Individual - Biografía del autor"
+
+#: functions/theme-options.php:184
+msgid "Comment count on bubbles"
+msgstr "Recuento de comentarios en burbujas"
+
+#: functions/theme-options.php:183
+msgid "Comment Count"
+msgstr "Cantidad de comentarios"
+
+#: functions/theme-options.php:174
+msgid "Frontpage Widgets Bottom"
+msgstr "Widgets inferiores de la página de inicio"
+
+#: functions/theme-options.php:166 functions/theme-options.php:175
+msgid "2 columns of widgets"
+msgstr "2 columnas de widgets"
+
+#: functions/theme-options.php:165
+msgid "Frontpage Widgets Top"
+msgstr "Widgets superiores de la página de inicio"
+
+#: functions/theme-options.php:152
+msgid "Max number of words. Set it to 0 to disable."
+msgstr "Número máximo de palabras. Ajústalo a 0 para desactivarlo."
+
+#: functions/theme-options.php:151
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: functions/theme-options.php:143
+msgid "Show excerpt instead of full post"
+msgstr "Mostrar un extracto en lugar de la entrada completa"
+
+#: functions/theme-options.php:142
+msgid "Enable Excerpts"
+msgstr "Activar extractos"
+
+#: functions/theme-options.php:134
+msgid "Show post formats instead of featured images on home, archive and search. Use image post format to still display featured images."
+msgstr "Mostrar los formatos de las entradas en lugar de las imágenes destacadas en la página de inicio, el archivo y la búsqueda. Utiliza el formato de publicación de imágenes para seguir mostrando las imágenes destacadas."
+
+#: functions/theme-options.php:133
+msgid "Enable Post Formats"
+msgstr "Activar los formatos de publicación"
+
+#: functions/theme-options.php:125
+msgid "Your blog subheading"
+msgstr "El subtítulo de tu blog"
+
+#: functions/theme-options.php:124
+msgid "Subheading"
+msgstr "Subencabezado"
+
+#: functions/theme-options.php:116
+msgid "Your blog heading"
+msgstr "El encabezado de tu blog"
+
+#: functions/theme-options.php:115
+msgid "Heading"
+msgstr "Encabezado"
+
+#: functions/theme-options.php:107
+msgid "Show heading on blog home"
+msgstr "Mostrar el encabezado en la página de inicio del blog"
+
+#: functions/theme-options.php:106
+msgid "Enable Blog Heading"
+msgstr "Habilitar el encabezado del blog"
+
+#: functions/theme-options.php:98
+msgid "Enable or disable the recommended plugins notice"
+msgstr "Activar o desactivar el aviso de los plugins recomendados"
+
+#: functions/theme-options.php:97
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: functions/theme-options.php:89
+msgid "Sidebar content on low-resolution mobile devices (320px)"
+msgstr "Contenido de la barra lateral en dispositivos móviles de baja resolución (320px)"
+
+#: functions/theme-options.php:88
+msgid "Mobile Sidebar Content"
+msgstr "Contenido de la barra lateral para dispositivos móviles"
+
+#: functions/theme-options.php:77
+msgid "Styling"
+msgstr "Estilos"
+
+#: functions/theme-options.php:72
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: functions/theme-options.php:67
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: functions/theme-options.php:47
+msgid "Blog"
+msgstr "Blog"
+
+#: functions/theme-options.php:42
+msgid "General"
+msgstr "General"
+
+#: functions/theme-options.php:35
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: functions/theme-options.php:26
+msgid "Write a Review"
+msgstr "Escribe una reseña"
+
+#: functions/theme-options.php:23
+msgid "Like This Theme?"
+msgstr "¿Te gusta este tema?"
+
+#: functions/nav.php:301
+msgid "Current Page Parent"
+msgstr "Padre de la página actual"
+
+#: functions/nav.php:287
+msgid "Current Page:"
+msgstr "Página actual:"
+
+#. Translators: %1$s: "Current Page:". %2$s: The menu-item title.
+#. Translators: %1$s: "Current Page Parent:". %2$s: The menu-item title.
+#: functions/nav.php:286 functions/nav.php:300
+msgid "<span class=\"screen-reader-text\">%1$s </span>%2$s"
+msgstr "<span class=\"screen-reader-text\">%1$s </span>%2$s"
+
+#: functions/nav.php:212
+msgid "Toggle Child Menu"
+msgstr "Alternar el menú hijo"
+
+#: functions/nav.php:170
+msgid "Expand Menu"
+msgstr "Ampliar el menú"
+
+#: functions/meta-boxes.php:55
+msgid "Post Options"
+msgstr "Opciones de entrada"
+
+#: functions/meta-boxes.php:37 functions/meta-boxes.php:71
+#: functions/theme-options.php:62
+msgid "Layout"
+msgstr "Disposición"
+
+#: functions/meta-boxes.php:31 functions/meta-boxes.php:65
+#: functions/theme-options.php:473 functions/theme-options.php:483
+#: functions/theme-options.php:493 functions/theme-options.php:503
+#: functions/theme-options.php:513 functions/theme-options.php:523
+#: functions/theme-options.php:533
+msgid "Select a sidebar"
+msgstr "Seleccionar una barra lateral"
+
+#: functions/meta-boxes.php:29 functions/meta-boxes.php:63
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: functions/meta-boxes.php:21
+msgid "Page Options"
+msgstr "Opciones de página"
+
+#: functions/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Aviso importante de la actualización:"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:182
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:179
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:174
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:169
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Book 300"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Light 200"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:162
+#: functions/kirki/packages/kirki-framework/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#. translators: The title.
+#: functions/kirki/packages/kirki-framework/module-sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Personalizando &#9656; %s"
+
+#: functions/kirki/packages/kirki-framework/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Personalización"
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s o %2$s"
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Los campos de Kirki no deben añadirse en customize_register. Por favor, añádelos directamente, o en init."
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "No volver a mostrar esto"
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Tu tema usa Font Awesome para los iconos. Para evitar problemas con iconos que no se muestran, te recomendamos instalar el plugin oficial de Font Awesome."
+
+#: functions/kirki/packages/kirki-framework/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Hemos detectado que estás usando `Kirki\\Compatibility\\Init::get_variables()`. Por favor, usa `\\Kirki\\Util\\Util::get_variables()` en su lugar."
+
+#. translators: The field ID where the error occurs.
+#: functions/kirki/packages/kirki-framework/compatibility/src/Field.php:514
+#: functions/kirki/packages/kirki-framework/compatibility/src/Field.php:525
+#: functions/kirki/packages/kirki-framework/module-css/src/CSS.php:133
+#: functions/kirki/packages/kirki-framework/module-css/src/CSS.php:144
+#: functions/kirki/packages/kirki-framework/module-postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "Formato no válido de \"output\" en el campo %s. El argumento \"output\" debe ser definido como un array de arrays."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: functions/kirki/packages/kirki-framework/compatibility/src/Field.php:388
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "Entrada no válida \"partial_refresh\" en el campo %s"
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: functions/kirki/packages/kirki-framework/compatibility/src/Field.php:272
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "No se ha definido configuración para el campo %1$s - Mira en %2$s detalles sobre cómo añadir campos correctamente."
+
+#. translators: %s represents the field ID where the error occurs.
+#: functions/kirki/packages/kirki-framework/compatibility/src/Field.php:261
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Errata encontrada en el campo %s - setting en lugar de settings."
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Elegir imagen"
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Control/Image.php:82
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:115
+#: functions/kirki/packages/kirki-framework/control-image/dist/control.js:1
+#: functions/kirki/packages/kirki-framework/control-image/src/control.js:100
+msgid "No image selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Cambiar imagen"
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Control/Image.php:89
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:111
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: functions/kirki/example.php:59
+msgid "Color"
+msgstr "Color"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Margen superior"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Tachado"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Raya superior"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Subrayado"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Inicial"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:362
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Nada"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Transformar texto"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Justificar"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Alineación del texto"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: functions/kirki/packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Desactivado"
+
+#: functions/kirki/packages/kirki-framework/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Encendido"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:486
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Cambiar archivo"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:486
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Añadir archivo"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:454
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Cambiar imagen"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:454
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Añadir imagen"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:443
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Límite: %s filas"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Selecciona una página"
+
+#. translators: %s represents the label of the row.
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Añadir %s"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "fila"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Altura"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ancho"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Tamaño"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:69
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "Centrar"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:68
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Derecha"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:67
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Abajo"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Arriba"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Espacio entre palabras"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:63
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:61
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:59
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: functions/kirki/packages/kirki-framework/control-dimension/src/Control/Dimension.php:67
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Valor no válido"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Control/Image.php:87
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:113
+#: functions/kirki/packages/kirki-framework/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "Por defecto"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Fijo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Scroll"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Fijación del fondo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Auto"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Contener"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Cubrir"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:161
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Centro abajo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:160
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:159
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "Centro arriba"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:164
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Derecha abajo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:163
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Derecha centro"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:162
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Derecha arriba"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:158
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Izquierda abajo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:157
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Izquierda centro"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:156
+#: functions/kirki/packages/kirki-framework/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Izquierda arriba"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: functions/kirki/packages/kirki-framework/control-image/src/Control/Image.php:85
+#: functions/kirki/packages/kirki-framework/control-image/src/Field/Image.php:114
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:453
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:485
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Eliminar"
+
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:475
+#: functions/kirki/packages/kirki-framework/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Ningún archivo seleccionado"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: functions/kirki/packages/kirki-framework/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+#: functions/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: functions/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: functions/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: functions/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: functions/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se había seleccionado ningún plugin que activar. No se ha realizado ninguna acción."
+
+#: functions/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#: functions/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: functions/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se había seleccionado ningún plugin que actualizar. No se ha realizado ninguna acción."
+
+#: functions/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se había seleccionado ningún plugin que instalar. No se ha realizado ninguna acción."
+
+#: functions/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: functions/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: functions/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: functions/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: functions/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: functions/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: functions/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: functions/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: functions/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: functions/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: functions/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: functions/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: functions/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: functions/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: functions/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: functions/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: functions/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: functions/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Debe actualizarse"
+
+#: functions/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: functions/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: functions/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: functions/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: functions/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: functions/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: functions/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: functions/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: functions/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: functions/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: functions/class-tgm-plugin-activation.php:1121
+#: functions/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: functions/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: functions/class-tgm-plugin-activation.php:934
+#: functions/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: functions/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: functions/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Debe actualizarse"
+
+#: functions/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: functions/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: functions/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: functions/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: functions/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: functions/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activo."
+
+#: functions/class-tgm-plugin-activation.php:388
+#: functions/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente."
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:387
+#: functions/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: functions/class-tgm-plugin-activation.php:386
+#: functions/class-tgm-plugin-activation.php:827
+#: functions/class-tgm-plugin-activation.php:2533
+#: functions/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: functions/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: functions/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: functions/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: functions/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: functions/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha salido mal con la API de plugins."
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: functions/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: functions/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: functions/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: functions.php:694
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: functions.php:690
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#: functions.php:686
+msgid "Meta Box"
+msgstr "Caja meta"
+
+#: functions.php:682
+msgid "Alx Extensions"
+msgstr "Extensiones de Alx"
+
+#: functions.php:191
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:190
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:189
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:188 functions.php:189 functions.php:190 functions.php:191
+msgid "Widgetized footer"
+msgstr "Pie de página con widgets"
+
+#: functions.php:188
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:186
+msgid "Frontpage Bottom 2"
+msgstr "Portada inferior 2"
+
+#: functions.php:185
+msgid "Frontpage Bottom 1"
+msgstr "Portada inferior 1"
+
+#: functions.php:184
+msgid "Frontpage Top 2"
+msgstr "Portada superior 2"
+
+#: functions.php:183 functions.php:184 functions.php:185 functions.php:186
+msgid "Frontpage area"
+msgstr "Área de la portada"
+
+#: functions.php:183
+msgid "Frontpage Top 1"
+msgstr "Portada superior 1"
+
+#: functions.php:181
+msgid "Footer ads area"
+msgstr "Área de anuncios del pie de página"
+
+#: functions.php:181 functions/theme-options.php:274
+msgid "Footer Ads"
+msgstr "Anuncios del pie de página"
+
+#: functions.php:179
+msgid "Normal full width sidebar"
+msgstr "Barra lateral normal de ancho completo"
+
+#: functions.php:179
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:85 functions/theme-options.php:57
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:84 functions/theme-options.php:52
+msgid "Header"
+msgstr "Cabecera"
+
+#: functions.php:83
+msgid "Mobile"
+msgstr "Móvil"
+
+#: footer.php:75
+msgid "Theme by"
+msgstr "Tema de"
+
+#: footer.php:75
+msgid "https://wordpress.org"
+msgstr "https://es.wordpress.org"
+
+#: footer.php:75
+msgid "Powered by"
+msgstr "Funciona con"
+
+#: footer.php:69
+msgid "All Rights Reserved."
+msgstr "Todos los derechos reservados."
+
+#: footer.php:69
+msgid "Y"
+msgstr "Y"
+
+#: content.php:56 single.php:46
+msgid "by"
+msgstr "por"
+
+#: content.php:40 content.php:45
+msgid "Continue reading..."
+msgstr "Seguir leyendo..."
+
+#: comments.php:11
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: comments.php:10
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:7
+msgid "% Responses"
+msgstr "% respuestas"
+
+#: comments.php:7
+msgid "1 Response"
+msgstr "1 respuesta"
+
+#: comments.php:7
+msgid "No Responses"
+msgstr "No hay respuestas"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "http://alx.media"
+msgstr "http://alx.media"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Alexander Agnarson"
+msgstr "Alexander Agnarson"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://alx.media/themes/blogstream/"
+msgstr "http://alx.media/themes/blogstream/"
